@@ -1,0 +1,30 @@
+body {
+  background-color: Coral;
+}
+
+.yoko {
+  float: left;
+  width: 33%;
+  padding-right: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.cash {
+  float:left;
+  width: 33%;
+  padding-right: 5px;
+}
+
+.diva {
+  float:left;
+  width: 33%;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  overflow: hidden;
+}
