@@ -24,7 +24,38 @@ h1 {
 }
 
 img {
-  height: 250px;
-  width: 250px;
+  width: 60%;
   overflow: hidden;
+}
+
+.yoko li {
+  font-weight: bold;
+  background-color: pink;
+}
+
+.cash li {
+  color: blue;
+  background-color: yellow;
+}
+
+.diva li {
+  color: purple;
+  background-color: white;
+}
+
+.diva img {
+  float: right;
+}
+
+.yoko img {
+  float: left;
+}
+
+.cash img {
+  float: left;
+}
+
+h2 {
+  font-family: cursive;
+  font-size: 40px;
 }
